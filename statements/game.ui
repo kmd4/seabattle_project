@@ -1,0 +1,3332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1100</width>
+    <height>663</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>70</y>
+      <width>450</width>
+      <height>450</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QPushButton" name="pushButton_0">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_1">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_2">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_3">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_4">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_5">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_6">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_7">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_8">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_9">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_10">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_11">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_12">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_13">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_14">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_15">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_16">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_17">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_18">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_19">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_20">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_21">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_22">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_23">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_24">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_25">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_26">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_27">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_28">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_29">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_30">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_31">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_32">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_33">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_34">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_35">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_36">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_37">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_38">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_39">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_40">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_41">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_42">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_43">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_44">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_45">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_46">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_47">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_48">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_49">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_50">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_51">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_52">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_53">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_54">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_55">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_56">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_57">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_58">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_59">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_60">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_61">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_62">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_63">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_64">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_65">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_66">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_67">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_68">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_69">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_70">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_71">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_72">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_73">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_74">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_75">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_76">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_77">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_78">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_79">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_80">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_81">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_82">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_83">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_84">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_85">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_86">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_87">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_88">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_89">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_90">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_91">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_92">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_93">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_94">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_95">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_96">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_97">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_98">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_99">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">firstButtons</string>
+     </attribute>
+    </widget>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>30</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>system</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>30</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>ты (лох)</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>275</y>
+      <width>60</width>
+      <height>60</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>18</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>&lt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_301">
+    <property name="geometry">
+     <rect>
+      <x>850</x>
+      <y>570</y>
+      <width>180</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Завершить игру</string>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_2">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>70</y>
+      <width>450</width>
+      <height>450</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QPushButton" name="pushButton_201">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_202">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_203">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_204">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_205">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_206">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_207">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_208">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_209">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_210">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>0</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_211">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_212">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_213">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_214">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_215">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_216">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_217">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_218">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_219">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_220">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>45</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_221">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_222">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_223">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_224">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_225">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_226">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_227">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_228">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_229">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_230">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>90</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_231">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_232">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_233">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_234">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_235">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_236">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_237">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_238">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_239">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_240">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>135</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_241">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_242">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_243">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_244">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_245">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_246">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_247">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_248">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_249">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_250">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>180</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_251">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_252">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_253">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_254">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_255">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_256">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_257">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_258">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_259">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_260">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>225</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_261">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_262">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_263">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_264">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_265">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_266">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_267">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_268">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_269">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_270">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>270</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_271">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_272">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_273">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_274">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_275">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_276">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_277">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_278">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_279">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_280">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>315</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_281">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_282">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_283">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_284">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_285">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_286">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_287">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_288">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_289">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_290">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>360</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_291">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_292">
+     <property name="geometry">
+      <rect>
+       <x>45</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_293">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_294">
+     <property name="geometry">
+      <rect>
+       <x>135</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_295">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_296">
+     <property name="geometry">
+      <rect>
+       <x>225</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_297">
+     <property name="geometry">
+      <rect>
+       <x>270</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_298">
+     <property name="geometry">
+      <rect>
+       <x>315</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_299">
+     <property name="geometry">
+      <rect>
+       <x>360</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+    <widget class="QPushButton" name="pushButton_300">
+     <property name="geometry">
+      <rect>
+       <x>405</x>
+       <y>405</y>
+       <width>45</width>
+       <height>45</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">secondButtons</string>
+     </attribute>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1100</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
